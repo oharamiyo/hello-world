@@ -3,4 +3,4 @@ firsrt repository
 
 
 my name is miyo
-i live in nagano
+i live in nagano matsumoto
